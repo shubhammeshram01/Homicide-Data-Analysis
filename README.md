@@ -15,7 +15,7 @@
 6) Region and Year wise Homicide Count
 7) Sub-region-wise mean of Homicide Count
 
-# Analyse Homicide Count on the following charts:
+## Analyse Homicide Count on the following charts:
 1) Plotting of that count in line, bar, pie chart
 2) Plotting of region-wise count on the bar plot
 3) Plotting of sub-region-wise count on bar chart
