@@ -1,12 +1,12 @@
 # Homicide-Data-Analysis
 
-# Analyse the Homicide dataset using the following Python Libraries:
+## Analyse the Homicide dataset using the following Python Libraries:
 * Pandas
 * Seaborn
 * Matplolib
 * Plotly
 
-# Analyse the following questions :
+## Analyse the following questions :
 1) Location-wise homicide count
 2) Region wise Homicide Count
 3) Sub-region-wise Homicide Count
