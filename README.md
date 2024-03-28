@@ -16,13 +16,13 @@
 7) Sub-region-wise mean of Homicide Count
 
 ## Analyse Homicide Count on the following charts:
-1) Plotting of that count in line, bar, pie chart
-2) Plotting of region-wise count on the bar plot
-3) Plotting of sub-region-wise count on bar chart
-4) Plotting of year-wise count on the bar chart
-5) Plotting and unstacking of count in Asia and Europe Region
-6) Plotting of Year wise count on the bar chart
-7) Plotting of year and region wise Homicide Count
+1) Plotting of location-wise homicide count in line, bar, and pie chart
+2) Plotting of region-wise homicide count on the bar plot
+3) Plotting of sub-region-wise homicide count on bar chart
+4) Plotting of year-wise homicide count on the bar chart
+5) Plotting and unstacking of homicide count in Asia and Europe Region
+6) Plotting of year-wise homicide count on the bar chart
+7) Plotting of region and year-wise Homicide Count
 
 # 
 |Name| Python Analysis File |CSV File|My Github|
