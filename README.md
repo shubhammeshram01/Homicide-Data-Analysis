@@ -6,7 +6,7 @@
 * Matplolib
 * Plotly
 
-## Analyse the following questions :
+## Analyse the following :
 1) Location-wise homicide count
 2) Region wise Homicide Count
 3) Sub-region-wise Homicide Count
@@ -16,7 +16,7 @@
 7) Sub-region-wise mean of Homicide Count
 
 ## Analyse Homicide Count on the following charts:
-1) Plotting of location-wise homicide count in line, bar, and pie chart
+1) Plotting of location-wise homicide count on line, bar, and pie chart
 2) Plotting of region-wise homicide count on the bar plot
 3) Plotting of sub-region-wise homicide count on bar chart
 4) Plotting of year-wise homicide count on the bar chart
