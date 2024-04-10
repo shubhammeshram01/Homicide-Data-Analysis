@@ -24,10 +24,11 @@
 6) Plotting of year-wise homicide count on the bar chart
 7) Plotting of region and year-wise Homicide Count
 
-# 
-|Name| Python Analysis File |CSV File|My Github|
-|-|-|-|-|
-|Homicide Data Analysis|[Link](https://github.com/shubhammeshram01/Homicide-Data-Analysis/blob/main/Homicide%20Data%20Analysis%20-%20Project.ipynb)|[Link](https://github.com/shubhammeshram01/Homicide-Data-Analysis/blob/main/homicide_by_countries.csv)|[Link](https://github.com/shubhammeshram01)|
+# Analysis files : 
+
+|Project Name| Analysis File |CSV File|My Github|My Linkedln|
+|-|-|-|-|-|
+|Homicide Data Analysis|[Link](https://github.com/shubhammeshram01/Homicide-Data-Analysis/blob/main/Homicide%20Data%20Analysis%20-%20Project.ipynb)|[Link](https://github.com/shubhammeshram01/Homicide-Data-Analysis/blob/main/homicide_by_countries.csv)|[Github](https://github.com/shubhammeshram01)|[Linkedln]()
 
 
 
